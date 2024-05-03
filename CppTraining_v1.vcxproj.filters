@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\tasks">
+      <UniqueIdentifier>{b978ea76-d9c6-477a-b4a0-aff1258aab13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task1">
+      <UniqueIdentifier>{1e2f8700-7d17-46ed-80cb-1ccdae1495c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task2">
+      <UniqueIdentifier>{2ab0b73b-5ceb-426d-b5d7-d728781be26c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task3">
+      <UniqueIdentifier>{e7a739d7-1087-4426-b781-5be287633ef2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task4">
+      <UniqueIdentifier>{51327d61-4b0d-4c81-a9b5-88d85c41b8e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task5">
+      <UniqueIdentifier>{c3baf4f2-62a3-4834-93cb-331282613237}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task6">
+      <UniqueIdentifier>{fef7824b-c3fb-461f-b8c7-5125e1788b78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task7">
+      <UniqueIdentifier>{15ff309a-b8c1-4999-bb98-aaabe0470a9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task8">
+      <UniqueIdentifier>{354bea36-3877-4874-884c-70450d2433cb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CppTraining_v1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="task_1.cpp">
+      <Filter>Source Files\tasks\task1</Filter>
+    </ClCompile>
+    <ClCompile Include="task_2.cpp">
+      <Filter>Source Files\tasks\task2</Filter>
+    </ClCompile>
+    <ClCompile Include="task_3.cpp">
+      <Filter>Source Files\tasks\task3</Filter>
+    </ClCompile>
+    <ClCompile Include="iPseudoMain.cpp">
+      <Filter>Source Files\tasks</Filter>
+    </ClCompile>
+    <ClCompile Include="task_4.cpp">
+      <Filter>Source Files\tasks\task4</Filter>
+    </ClCompile>
+    <ClCompile Include="task_5.cpp">
+      <Filter>Source Files\tasks\task5</Filter>
+    </ClCompile>
+    <ClCompile Include="task_6.cpp">
+      <Filter>Source Files\tasks\task6</Filter>
+    </ClCompile>
+    <ClCompile Include="task_7.cpp">
+      <Filter>Source Files\tasks\task7</Filter>
+    </ClCompile>
+    <ClCompile Include="task_8.cpp">
+      <Filter>Source Files\tasks\task8</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="cppTasks.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
