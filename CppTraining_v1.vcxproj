@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="CppTraining_v1.cpp" />
     <ClCompile Include="iPseudoMain.cpp" />
+    <ClCompile Include="task_10.cpp" />
     <ClCompile Include="task_7.cpp" />
     <ClCompile Include="task_1.cpp" />
     <ClCompile Include="task_2.cpp" />
@@ -137,6 +138,7 @@
     <ClCompile Include="task_5.cpp" />
     <ClCompile Include="task_6.cpp" />
     <ClCompile Include="task_8.cpp" />
+    <ClCompile Include="task_9.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="cppTasks.h" />

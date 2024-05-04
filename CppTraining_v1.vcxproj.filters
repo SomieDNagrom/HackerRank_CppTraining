@@ -40,6 +40,12 @@
     <Filter Include="Source Files\tasks\task8">
       <UniqueIdentifier>{354bea36-3877-4874-884c-70450d2433cb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\tasks\task9">
+      <UniqueIdentifier>{041b3cee-caba-4078-9571-e197a3db0353}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\tasks\task10">
+      <UniqueIdentifier>{2b06f9d8-9fb9-4c4f-889e-c2afdfcb4d87}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CppTraining_v1.cpp">
@@ -71,6 +77,12 @@
     </ClCompile>
     <ClCompile Include="task_8.cpp">
       <Filter>Source Files\tasks\task8</Filter>
+    </ClCompile>
+    <ClCompile Include="task_9.cpp">
+      <Filter>Source Files\tasks\task9</Filter>
+    </ClCompile>
+    <ClCompile Include="task_10.cpp">
+      <Filter>Source Files\tasks\task10</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

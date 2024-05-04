@@ -30,7 +30,7 @@ public:
         cout << "Enter numbers (a and b): " << endl;
         cin >> a >> b;
         update(pa, pb);
-        cout << a << endl << b << endl;
+        cout << "Sum: " << a << endl << "Absolute: " << b << endl;
 
         return 0;
     }

@@ -1,5 +1,6 @@
 ﻿  CppTraining_v1.cpp
   iPseudoMain.cpp
+  task_10.cpp
   task_7.cpp
   task_1.cpp
   task_2.cpp
@@ -8,5 +9,6 @@
   task_5.cpp
   task_6.cpp
   task_8.cpp
+  task_9.cpp
   Generating Code...
   CppTraining_v1.vcxproj -> D:\Eugene\programming\projects\c++\training\CppTraining_v1\x64\Debug\CppTraining_v1.exe
