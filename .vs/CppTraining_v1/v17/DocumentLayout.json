@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\cppTasks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|solutionrelative:cppTasks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|solutionrelative:task_10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\cppTasks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|solutionrelative:cppTasks.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\CppTraining_v1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|solutionrelative:CppTraining_v1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|solutionrelative:task_8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\CppTraining_v1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|solutionrelative:CppTraining_v1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B5EC55-6885-4214-B699-997CCE74417A}|CppTraining_v1.vcxproj|D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -62,19 +62,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "task_10.cpp",
+              "DocumentMoniker": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_10.cpp",
+              "RelativeDocumentMoniker": "task_10.cpp",
+              "ToolTip": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_10.cpp",
+              "RelativeToolTip": "task_10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-06T21:31:36.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CppTraining_v1.cpp",
               "DocumentMoniker": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\CppTraining_v1.cpp",
               "RelativeDocumentMoniker": "CppTraining_v1.cpp",
               "ToolTip": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\CppTraining_v1.cpp",
               "RelativeToolTip": "CppTraining_v1.cpp",
-              "ViewState": "AQIAACAAAAAAAAAAAAA0wC8AAAAAAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-30T23:07:36.897Z"
+              "WhenOpened": "2024-04-30T23:07:36.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,7 +136,8 @@
               "RelativeToolTip": "task_4.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-03T20:53:24.796Z"
+              "WhenOpened": "2024-05-03T20:53:24.796Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -162,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "task_8.cpp",
               "DocumentMoniker": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_8.cpp",
               "RelativeDocumentMoniker": "task_8.cpp",
@@ -174,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "task_9.cpp",
               "DocumentMoniker": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_9.cpp",
               "RelativeDocumentMoniker": "task_9.cpp",
@@ -187,27 +202,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "task_10.cpp",
-              "DocumentMoniker": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_10.cpp",
-              "RelativeDocumentMoniker": "task_10.cpp",
-              "ToolTip": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\task_10.cpp",
-              "RelativeToolTip": "task_10.cpp",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAswHQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-04T00:19:32.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "cppTasks.h",
               "DocumentMoniker": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\cppTasks.h",
               "RelativeDocumentMoniker": "cppTasks.h",
               "ToolTip": "D:\\Eugene\\programming\\projects\\c\u002B\u002B\\training\\CppTraining_v1\\cppTasks.h",
               "RelativeToolTip": "cppTasks.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAARAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-04-30T23:49:36.064Z"
+              "WhenOpened": "2024-04-30T23:49:36.064Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
