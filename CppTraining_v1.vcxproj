@@ -132,6 +132,7 @@
     <ClCompile Include="task_10.cpp" />
     <ClCompile Include="task_11.cpp" />
     <ClCompile Include="task_12.cpp" />
+    <ClCompile Include="task_13.cpp" />
     <ClCompile Include="task_7.cpp" />
     <ClCompile Include="task_1.cpp" />
     <ClCompile Include="task_2.cpp" />

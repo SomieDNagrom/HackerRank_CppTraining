@@ -52,6 +52,9 @@
     <Filter Include="Source Files\tasks\task12">
       <UniqueIdentifier>{6439a1a5-c5c8-4665-9d50-4d9b5ab440ea}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\tasks\task13">
+      <UniqueIdentifier>{fb68aebc-a09d-46f8-bb52-e7d5708a7cfd}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CppTraining_v1.cpp">
@@ -95,6 +98,9 @@
     </ClCompile>
     <ClCompile Include="task_12.cpp">
       <Filter>Source Files\tasks\task12</Filter>
+    </ClCompile>
+    <ClCompile Include="task_13.cpp">
+      <Filter>Source Files\tasks\task13</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
