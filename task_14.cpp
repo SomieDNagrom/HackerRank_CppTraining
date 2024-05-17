@@ -25,41 +25,41 @@ No
 class Task14 : virtual public IPseudoMain
 {
 private:
-    enum QueryOperationType
+    enum MapOperationType
     {
         Add = 1,
         Remove = 2,
         Contain = 3
     };
-    struct QueryInfo
+    struct MapInfo
     {
     private:
-        QueryOperationType type{};
+        MapOperationType type{};
         int value = 0;
     public:
-        QueryInfo(QueryOperationType type, int value)
+        MapInfo(MapOperationType type, int value)
         {
             this->type = type;
             this->value = value;
         }
-        QueryInfo(int type, int value)
+        MapInfo(int type, int value)
         {
             switch (type)
             {
             case 1:
-                this->type = QueryOperationType::Add;
+                this->type = MapOperationType::Add;
                 break;
             case 2:
-                this->type = QueryOperationType::Remove;
+                this->type = MapOperationType::Remove;
                 break;
             case 3:
-                this->type = QueryOperationType::Contain;
+                this->type = MapOperationType::Contain;
                 break;
             }
 
             this->value = value;
         }
-        QueryOperationType getOperationType() const
+        MapOperationType getOperationType() const
         {
             return this->type;
         }
@@ -69,7 +69,7 @@ private:
         }
     };
 
-    vector<QueryInfo*> data;
+    vector<MapInfo*> data;
     set<int> sets;
     vector<string> results;
 public:
@@ -88,12 +88,12 @@ public:
             int value = 0;
             cout << "Enter operatio type (integer) and value (integer)(space-separated): ";
             cin >> type >> value;
-            data.push_back(new QueryInfo(type, value));
+            data.push_back(new MapInfo(type, value));
         }
 
         for (int i = 0; i < data.size(); i++)
         {
-            QueryOperationType type = data[i]->getOperationType();
+            MapOperationType type = data[i]->getOperationType();
             int value = data[i]->getValue();
 
             switch (type)
