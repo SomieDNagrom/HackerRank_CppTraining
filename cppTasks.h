@@ -16,6 +16,7 @@
 #include "task_13.cpp"
 #include "task_14.cpp"
 #include "task_15.cpp"
+#include "task_16.cpp"
 
 IPseudoMain* pseudoMains[] =
 {
@@ -34,6 +35,7 @@ IPseudoMain* pseudoMains[] =
     new Task13("Task 13"),
     new Task14("Task 14"),
     new Task15("Task 15"),
+    new Task16("Task 16"),
 };
 
 #endif // !CPP_TASKS
